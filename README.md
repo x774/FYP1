@@ -1,6 +1,6 @@
 Guideline to Open and Run the FYP1 Project
 
-1. Ensure all required software is downloaded, installed, and set up correctly. For setup instructions, refer to the XINWIE JOON - Final Report, Appendix C Section.
+1. Ensure all required software is downloaded, installed, and set up correctly. For setup instructions, refer to the XINWIE JOON - Final Report (https://drive.google.com/file/d/1550uk7sP_kmq7nPo8FhaR5Nyis_fGs49/view?usp=sharing), Appendix C Section.
 
 2. Extract the FYP1 ZIP file to the location C:\xampp\htdocs. You can copy this location and paste it into the appropriate placeholder.
 
